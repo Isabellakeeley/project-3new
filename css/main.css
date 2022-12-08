@@ -48,6 +48,9 @@ img{
 }
 .home-selfie{
     max-width: 300px;
+    padding-left: 200px;
+    padding-right: 100px;
+    margin: 0%;
 }
 .home-text {
     display: flex;
@@ -57,6 +60,8 @@ img{
 }
 .home-text p{
     font-size: xx-large;
+    padding-left: 100px;
+
 }
 .main-nav-home a{
     color: azure;
