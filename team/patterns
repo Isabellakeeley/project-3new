@@ -1,0 +1,68 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Patterns</title>
+  <meta name="description" content="final-singular view">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="../css/normalize.css">
+  <link rel="stylesheet" href="../css/main.css">
+
+  <meta name="theme-color" content="#fafafs" />
+  <link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Kenia&display=swap" rel="stylesheet">
+</head>
+
+  <body>
+    <div>
+    <header class="header">
+  <p>Isabella Keeley's Portfolio</p>
+  <nav class="main-nav">
+    <a href="../index.html">home</a>
+    <a href="../contact.html">contact</a>
+    <a href="../about.html">about</a>
+    <a href="../gallery.html">gallery</a>
+  </nav>
+  </header>
+</div>
+  <div class="gallery-main-content-wrapper">
+    <main class="gallery-main-content">
+      <!-- row 1 -->
+      <div class="gallery-feature-content">
+        <img class="gallery-feature-image" src="../img/Artboard 11.png" alt="">
+        <div class="gallery-feature-meta">
+          <h1 class="gallery-feature-title">Digtal Art Final</h1>
+          <p class="gallery-feature-caption"> Patterns</p>
+        </div>
+      </div>
+      <!-- row 2 -->
+      <div class="gallery-feature-description">
+        <p>
+         The objective of this project was to create various patterns that stand alone but also work together. The theme of my patters was traditional roles of women in a house hold using romatic symbols and deep shades. 
+        </p>      
+      </div>
+      <div class="hippocampus-feature-images">
+        <img src="../img/Artboard 1.png" alt="">
+        <img src="../img/Artboard 10.png" alt="">
+        <img src="../img/Artboard 2.jpg" alt="">
+        <img src="../img/Artboard 3.png" alt="">
+        <img src="../img/Artboard 6.png" alt="">
+        <img src="../img/Artboard 7.png" alt="">
+        <img src="../img/Artboard 8.png" alt="">
+        <img src="../img/Artboard 9.png" alt="">
+      </div>
+      
+
+</body>
