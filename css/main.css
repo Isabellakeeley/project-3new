@@ -36,7 +36,7 @@ img{
     padding-bottom: 550px;
     border-color: rgb(245, 176, 220);
     border-style: dashed;
-    border-width: 2px;
+    border-width: 100%;
 
 
 }
@@ -52,9 +52,9 @@ img{
     color: rgb(255, 255, 255);
 }
 .home-selfie{
-    max-width: 500px;
-    padding-left: 200px;
-    padding-right: 100px;
+    max-width: 250px;
+    padding-left: 100px;
+    padding-right: 300px;
     margin: 0%;
 }
 .home-text {
@@ -65,7 +65,7 @@ img{
 }
 .home-text p{
     font-size: xx-large;
-    padding-left: 100px;
+    padding-left: 300px;
     color: rgb(245, 176, 220);
 
 }
@@ -117,11 +117,19 @@ img{
             display: grid;
         }
     }
-      
+.about-wrapper{
+    display: flex;
+    column-rule-width: 20px;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 50px;
+}
 .about-text {
     gap: 20x;
     padding: 20px;
     color: azure;
+    padding-right: 100px;
+
 }
 .portfolio-contact-form{
     display: flex;
@@ -131,7 +139,8 @@ img{
 }
 
 .about-img{
-    max-width: 20%;
+    max-width: 50%;
+    padding-left: 100px;
 }
 .gallery-feature-image{
     max-width: 20%;
@@ -172,6 +181,9 @@ a:hover{
 }
 .gallery-feature-image-type{
     max-width: 600px;
+}
+.contact-text p{
+    color: azure;
 }
 
    
