@@ -1,0 +1,53 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Painting</title>
+  <meta name="description" content="painting-singular view">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="../css/normalize.css">
+  <link rel="stylesheet" href="../css/main.css">
+
+  <meta name="theme-color" content="#fafafs" />
+  <link rel="preconnect" href="https://fonts.googleapis.com"> 
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+  <link href="https://fonts.googleapis.com/css2?family=Kenia&display=swap" rel="stylesheet">
+</head>
+
+  <body>
+    <div>
+    <header class="header">
+  <p>Isabella Keeley's Portfolio</p>
+  <nav class="main-nav">
+    <a href="../index.html">home</a>
+    <a href="../contact.html">contact</a>
+    <a href="../about.html">about</a>
+    <a href="../gallery.html">gallery</a>
+  </nav>
+  </header>
+</div>
+  <div class="gallery-main-content-wrapper">
+    <main class="gallery-main-content">
+      <!-- row 1 -->
+      <div class="gallery-feature-content">
+        <img class="gallery-feature-image" src="../img/IMG_5376.jpeg" alt="">
+        <div class="gallery-feature-meta">
+          <h1 class="gallery-feature-title">Oil Painting</h1>
+          <p class="gallery-feature-caption">A singing bowl placed on top a mirror with a gloomy background. Healing the surroundings.</p>
+        </div>
+      </div>
+      <!-- row 2 -->
+    
+
+</body>
