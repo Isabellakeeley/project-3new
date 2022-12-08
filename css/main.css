@@ -31,16 +31,21 @@ img{
     display: flex;
     justify-content: end;
     gap: 15px;
-    color: rgb(231, 20, 136);
+    color: rgb(251, 251, 251);
     background-image: url(../img/home\ page.jpg);
     padding-bottom: 550px;
+    border-color: rgb(245, 176, 220);
+    border-style: dashed;
+    border-width: 2px;
+
 
 }
 .header-main p{
     margin: 0;
     font-size: 60px;
-    color: azure;
+    color: rgb(245, 176, 220);
     padding-right: 900px;
+
 }
 
 .main-nav a{
@@ -61,6 +66,7 @@ img{
 .home-text p{
     font-size: xx-large;
     padding-left: 100px;
+    color: rgb(245, 176, 220);
 
 }
 .main-nav-home a{
@@ -81,7 +87,7 @@ img{
 .header p{
     margin: 0;
     font-size: 45px;
-    color: azure;
+    color: rgb(245, 176, 220);
 }
 .intro-name{
     font-size: xx-large;
@@ -167,8 +173,6 @@ a:hover{
 .gallery-feature-image-type{
     max-width: 600px;
 }
-.home-text p{
-    color: azure;
-}
+
    
 /* Place CSS styles here */
