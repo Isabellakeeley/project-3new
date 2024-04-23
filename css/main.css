@@ -25,7 +25,7 @@ img{
     justify-content: end;
     align-items: center;
     gap: 15px;
-    text-decoration-color: azure;
+    text-decoration-color: rgb(0, 0, 0);
     font-family: 'Rubik Vinyl', cursive;
 }
 .header-main{
@@ -71,7 +71,7 @@ img{
 
 }
 .main-nav-home a{
-    color: azure;
+    color: rgb(0, 0, 0);
 }
 .main-nav-home{
     display: flex;
@@ -93,7 +93,7 @@ img{
 }
 .intro-name{
     font-size: xx-large;
-    color: azure;
+    color: rgb(0, 0, 0);
 }
 
 .mobile-image
@@ -102,7 +102,7 @@ img{
 }
 .portfolio-wrapper{
     padding-top: 32px;
-    border-top: 1px solid rgb(250, 250, 250)
+    border-top: 1px solid rgb(0, 0, 0)
 }
 .gallery-team-list {
         padding-left: 0;
@@ -129,7 +129,7 @@ img{
 .about-text {
     gap: 20x;
     padding: 20px;
-    color: azure;
+    color: rgb(0, 0, 0), 0, 0);
     padding-right: 100px;
 
 }
@@ -137,7 +137,7 @@ img{
     display: flex;
     align-items: center;
     flex-direction: column;
-    color: azure;
+    color: rgb(0, 0, 0);
 }
 
 .about-img{
@@ -161,29 +161,29 @@ img{
  max-width: 170px;
 }
 .gallery-team-list a{
-    color: azure;
+    color: rgb(0, 0, 0);
     
 }
 a:hover{
     color: rgb(231, 20, 136);
 }
 .gallery-feature-title{
-    color: azure;
+    color: rgb(0, 0, 0);
 }
 .gallery-feature-description{
-    color: azure;
+    color: rgb(0, 0, 0);
 }
 .gallery-feature-image-branding{
     max-width: 800px;
 }
 .gallery-feature-caption{
-    color: azure;
+    color: rgb(0, 0, 0);
 }
 .gallery-feature-image-type{
     max-width: 600px;
 }
 .contact-text p{
-    color: azure;
+    color: rgb(0, 0, 0);
 }
 
    
