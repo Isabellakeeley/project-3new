@@ -43,13 +43,13 @@ img{
     margin: 0;
     font-family: 'Rubik Vinyl', cursive;
     font-size: 60px;
-    color: rgb(245, 176, 220);
+    color: rgb(0, 0, 0);
     padding-right: 700px;
 
 }
 
 .main-nav a{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     
 }
 .home-selfie{
@@ -67,7 +67,7 @@ img{
 .home-text p{
     font-size: xx-large;
     padding-left: 300px;
-    color: rgb(245, 176, 220);
+    color: rgb(0, 0, 0);
 
 }
 .main-nav-home a{
@@ -89,7 +89,7 @@ img{
 .header p{
     margin: 0;
     font-size: 45px;
-    color: rgb(245, 176, 220);
+    color: rgb(0, 0, 0);
 }
 .intro-name{
     font-size: xx-large;
