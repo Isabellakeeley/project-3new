@@ -61,6 +61,7 @@ img{
     column-rule-width: 20px;
     flex-direction: row-reverse;
     align-items: center;
+    padding-top: 200px;
 }
 .home-text p{
     font-size: xx-large;
