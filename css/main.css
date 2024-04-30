@@ -26,7 +26,12 @@ img{
     align-items: center;
     gap: 15px;
     text-decoration-color: rgb(0, 0, 0);
-    font-family: 'Rubik Vinyl', cursive;
+    .rubik-mono-one-regular {
+        font-family: "Rubik Mono One", monospace;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
 }
 .header-main{
     display: flex;
@@ -38,6 +43,7 @@ img{
         font-weight: 400;
         font-style: normal;
       }
+      
       
 
 
