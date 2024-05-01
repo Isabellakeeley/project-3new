@@ -26,7 +26,6 @@ img{
     align-items: center;
     gap: 15px;
     text-decoration-color: rgb(0, 0, 0);
-    font-family: 'Rubik Vinyl', cursive;
 }
 .header-main{
     display: flex;
