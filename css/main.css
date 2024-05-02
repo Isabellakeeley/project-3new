@@ -37,7 +37,7 @@ img{
     margin: 0;
     font-size: 60px;
     color: rgb(0, 0, 0);
-    padding-right: 500px;
+    padding-right: 680px;
 
 }
 
@@ -46,10 +46,10 @@ img{
     
 }
 .home-selfie{
-    max-width: 250px;
-    padding-left: 100px;
-    padding-right: 300px;
-    margin: 0%;
+    display: flex;
+    align-items: center;
+    display: flex;
+    justify-self: center;
 }
 .home-text {
     display: flex;
