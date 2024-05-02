@@ -46,10 +46,10 @@ img{
     
 }
 .home-selfie{
-    display: flex;
-    align-items: center;
-    display: flex;
-    justify-self: center;
+    max-width: 250px;
+    padding-left: 100px;
+    padding-right: 300px;
+    margin: 0%;
 }
 .home-text {
     display: flex;
