@@ -26,7 +26,6 @@ img{
     align-items: center;
     gap: 15px;
     text-decoration-color: rgb(0, 0, 0);
-    padding-left: 200px;
 }
 .header-main{
     display: flex;
@@ -67,12 +66,14 @@ img{
 }
 .main-nav-home a{
     color: rgb(0, 0, 0);
+    padding-left: 200px;
 }
 .main-nav-home{
     display: flex;
     justify-content: end;
     align-items: center;
     gap: 15px;
+    padding-left: 200px;
 }
 .header{
     display: flex;
