@@ -37,7 +37,7 @@ img{
     margin: 0;
     font-size: 60px;
     color: rgb(0, 0, 0);
-    padding-right: 700px;
+    padding-right: 400px;
 
 }
 
@@ -79,6 +79,7 @@ img{
     display: flex;
     justify-content: space-between;
     align-content: center;
+    padding-left: 20px;
 }
 
 .header p{
